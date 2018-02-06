@@ -20,18 +20,19 @@
 มี 1 บรรทัด เป็นค่าผลลัพธ์ และแสดงเกรดที่ได้ 
 
 ### ตัวอย่างโปรแกรม ###
-Test Case 1
+**Test Case 1**
+```
 
 Enter your score : 72
 
 Your score is 72. Grade : B
+```
 
 
-
-Test Case 2
-
+** Test Case 2 ***
+```
 Enter your score : 101
 
 Your score must be 0-100.
-
+```
 
