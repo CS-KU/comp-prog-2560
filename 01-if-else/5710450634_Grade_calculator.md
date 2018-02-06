@@ -23,9 +23,12 @@
 Test Case 1
 
 Enter your score : 72
->> Your score is 72. Grade : B
+Your score is 72. Grade : B
 
 Test Case 2
 
 Enter your score : 101
->> Your score must be 0-100.
+Your score must be 0-100.
+
+
+---END---
