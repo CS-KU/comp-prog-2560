@@ -29,7 +29,7 @@ Your score is 72. Grade : B
 ```
 
 
-** Test Case 2 ***
+**Test Case 2**
 ```
 Enter your score : 101
 
