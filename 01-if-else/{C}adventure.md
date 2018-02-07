@@ -113,8 +113,6 @@ Want to start a game. [y:n]? u
 You got 0/0.
 You are a baby boy!!??   
 ```
-
-
 เมื่อจะไม่เล่นเกมนี้ก็ใส่ n,N จะได้ผลตามรูปนี้
 ```
 Enter your name:  tae
@@ -129,9 +127,6 @@ Want to start a game. [y:n]? n
 You got 0/0.
 You are a baby boy!!??   
 ```
-
-
-
 เมื่อต้องการเล่นเกมนี้ก็ใส่ y,Y และเมื่อตอบถูกจะได้คะแนนและขึ้นตามรูปนี้
 ```
 Enter your name:  tae
@@ -148,10 +143,6 @@ c. .OBJ
 d. .BAS
 >>>>>Answer is?  
 ```
-
-
-
-
 เมื่อตอบอะไรมาก็ไม่รู้ ไม่มีอยู่ในตัวเลือกก็จะขึ้นแบบนี้
 ```
 Enter your name:  tae
