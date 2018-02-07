@@ -8,7 +8,7 @@ void main ()
 	int ____, ____;
 
 	_____("Enter your name: ");
-	____f("%s", name);
+	____f("%s", &name);
 	____f("Welcome to the game {C}adventure >>>%s<<<. <3<3<3\n", name);
 	p____f("This game is about learning c language.\n\n");
 	p____f(">>>Now you have level <0>.\n");
