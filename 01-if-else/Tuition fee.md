@@ -11,21 +11,18 @@
  Summer program credits:  3
  24,000
 
-
->High school credits:  26
+ >High school credits:  26
  Summer program credits:  0
  Credits not be more than 25
-
-
->High school credits:  26
+ 
+ >High school credits:  26
  Summer program credits:  16
  Credits not be more than 25
  Summer credits not be more than 15
-
-
->High school credits:  -1
->Summer program credits:  -2
->Error
+ 
+ >High school credits:  -1
+ Summer program credits:  -2
+ Error
 
 
 
