@@ -19,3 +19,7 @@ Credits not be more than 25
 Summer program credits:  16
 Credits not be more than 25
 Summer credits not be more than 15
+
+>High school credits:  -1
+Summer program credits:  -2
+Error
