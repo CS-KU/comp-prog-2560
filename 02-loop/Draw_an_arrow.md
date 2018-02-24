@@ -9,7 +9,7 @@
 Enter a character: W
 Enter size of arrow: 7
 ```
-ข้อนูลออก
+ข้อมูลออก
 ```
        W
       WWW
