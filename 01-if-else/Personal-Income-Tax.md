@@ -35,6 +35,7 @@ Income is : 500,000 Baht.
 Your tax is : 27,500 Baht.
 ```
 
+
 ```
 Test Case2
 Income is : 90,000 Baht.
