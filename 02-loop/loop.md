@@ -2,6 +2,7 @@
 จะหยุดก็ต่อเมื่อคะแนนของเด็กออกนอกช่วง 0 - 100
 
 TestCase1
+```
  37
  46
  29
@@ -19,9 +20,10 @@ Minimum: 2
 Range: 89
 Average: 49.20
 Number: 10
-
+```
 
 TestCase2
+```
  48
  23
  48
@@ -47,8 +49,10 @@ Minimum: 13
 Range: 86
 Average: 56.17
 Number: 18
+```
 
 TestCase3
+```
  34
  75
  23
@@ -68,3 +72,4 @@ Minimum: 5
 Range: 81
 Average: 48.75
 Number: 12
+```
