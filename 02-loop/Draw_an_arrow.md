@@ -34,7 +34,7 @@ WWWWWWWWWWWWWWW
 Enter a character: 1
 Enter size of arrow: 1
 ```
-ข้อนูลออก
+ข้อมูลออก
 ```
  1
 111
